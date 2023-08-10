@@ -1,0 +1,32 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "React Step by stpe",
+  "main": "app.js",
+  "dependencies": {
+    "parcel": "^2.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhaveshKawade/react.git"
+  },
+  "keywords": [
+    "React",
+    "React",
+    "Tutorial"
+  ],
+  "author": "Bhavesh Kawade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhaveshKawade/react/issues"
+  },
+  "homepage": "https://github.com/BhaveshKawade/react#readme"
+}
